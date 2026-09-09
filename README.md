@@ -4,15 +4,17 @@ I'm a Computer Engineering student at **ITBA** (Instituto Tecnológico de Buenos
 graduating December 2027. I work mostly on the backend: JVM services, C systems
 programming, and the layer where data, concurrency and protocols meet.
 
-Currently co-founding **Optha**, a clinical management platform for ophthalmology
-practices in Argentina, and looking for my **first backend internship or junior role**.
+My main project right now is **Optha**, a clinical management platform for
+ophthalmology practices in Argentina, which I am building together with three other people.
+I'm looking for my **first backend internship or junior role**.
 
 ---
 
 ## 🚀 Projects
 
 ### Optha — clinical management platform for ophthalmology practices `private repo`
-Co-founder, one of four partners. Multi-module Spring Boot backend with hexagonal
+A team of four with no fixed roles — everyone builds features end to end.
+Multi-module Spring Boot backend with hexagonal
 architecture, OAuth2/JWT via Keycloak, an OCR pipeline for handwritten clinical notes and
 PDF report generation. Angular 20 frontend, fully containerised.
 
